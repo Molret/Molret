@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Molret
-- 👀 I’m interested in JavaScript & HTML
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in JavaScript, CSS & HTML
+- 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on my projects
 - 📫 How to reach me: contacto@idkmaxii.me
 
