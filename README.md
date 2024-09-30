@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/idkmaxii" target="blank"><img src="https://img.shields.io/twitter/follow/idkmaxii?logo=twitter&style=for-the-badge" alt="idkmaxii" /></a> </p>
 
-- 🔭 I’m currently working on [SpectreMC](spectremc.com)
+- 🔭 I’m currently working on [PloxHost](plox.host)
 
 - 🌱 I’m currently learning **Frontend Development**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 🤝 I’m looking for help with **Learning React**
+- 🤝 I’m looking for help with **Learning Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [idkmaxii.me](idkmaxii.me)
 
-- 💬 Ask me about **HTML,CSS and any things!**
+- 💬 Ask me about **HTML, CSS, JS, Astro and many things!**
 
 - 📫 How to reach me **maximiliano.moldenhauer.r@marygraham.cl**
 
