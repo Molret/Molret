@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=molret&label=Profile%20views&color=0e75b6&style=flat" alt="molret" />
-  <a href="https://twitter.com/idkmaxii" target="blank"><img src="https://img.shields.io/twitter/follow/idkmaxii?logo=twitter&style=flat-square" alt="idkmaxii" /></a>
 </p>
 
 ---
