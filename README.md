@@ -9,9 +9,9 @@
 
 ### 🚀 About Me  
 - 🔭 Currently working at **[PloxHost](https://plox.host/)** as a **Junior Developer & Customer Support Rep**  
-- 🌱 Learning **Frontend Development** with focus on **React, Tailwind CSS & Astro**  
+- 🌱 Learning **Frontend Development** with focus on **Next.JS**  
 - 👯 Open to collaborate on **Frontend Projects & Open Source**  
-- 💬 Ask me about **HTML, CSS, JavaScript, Astro, React**  
+- 💬 Ask me about **DevOps - Frontend - Backend**  
 - 👨‍💻 Check out my work at **[molret.dev](https://molret.dev/)**  
 - 📫 Reach me at **hello@molret.dev**  
 - ⚡ Fun fact: *I believe learning something new every day makes me happier!*  
