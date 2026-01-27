@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maximiliano</h1>
-<h3 align="center">Frontend Developer | Tech Enthusiast | From Chile 🇨🇱</h3>
+<h3 align="center">Software Engineer | Tech Enthusiast | From Chile 🇨🇱</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=molret&label=Profile%20views&color=0e75b6&style=flat" alt="molret" />
@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 Currently working at **[PloxHost](https://plox.host/)** as a **Junior Developer & Customer Support Rep**  
+- 🔭 Currently working at **[PloxHost](https://plox.host/)** as a **Software Engineer | Customer Support Rep**  
 - 🌱 Learning **Frontend Development** with focus on **Next.JS**  
 - 👯 Open to collaborate on **Frontend Projects & Open Source**  
 - 💬 Ask me about **DevOps - Frontend - Backend**  
