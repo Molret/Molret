@@ -2,7 +2,7 @@
 
 <h3 align="center">Hey, I'm Max 👋 Software engineer from Chile 🇨🇱</h3>
 
-<p align="center">I got into tech through Minecraft hosting and never left. These days I build things around hosting and hiring.</p>
+<p align="center">I like building things, solving problems, and turning random ideas into actual and great software.</p>
 
 ## What I'm working on
 
