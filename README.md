@@ -1,6 +1,6 @@
 <img src="https://cdn.molret.dev/ocean.jpg" alt="ocean banner"/>
 
-<p align="center">Hey, I'm Max 👋 Software engineer from Chile 🇨🇱.</p>
+<h3 align="center">Hey, I'm Max 👋 Software engineer from Chile 🇨🇱</h3>
 
 <p align="center">I got into tech through Minecraft hosting and never left. These days I build things around hosting and hiring.</p>
 
